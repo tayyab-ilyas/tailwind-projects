@@ -7,7 +7,7 @@ npm init -y
 
 npm intsall -D tailwindcss postcss autoprefixer vite 
 
- npx tailwindcss init -p
+npx tailwindcss init -p
 ```
 ### Replace content[] with content ["*"] in your tailwind.config.js file
 
