@@ -9,9 +9,9 @@ npm intsall -D tailwindcss postcss autoprefixer vite
 
 npx tailwindcss init -p
 ```
-### Replace content[] with content ["*"] in your tailwind.config.js file
+-Replace content[] with content ["*"] in your tailwind.config.js file
 
-### Add "start":"vite" in scripts in your package.json
+-Add "start":"vite" in scripts in your package.json
 
 ```
 npm run start 
